@@ -1,2 +1,2 @@
 # xzyq2.github.io
-i mess with html embeds or something
+i mess with html embeds
